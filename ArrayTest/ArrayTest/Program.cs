@@ -4,6 +4,11 @@ namespace ArrayTest
 {
     class Program
     {
+        /// <summary>
+        /// Comments
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="factor"></param>
         static void InitializeArray(int[] array, int factor)
         {
             for (int i = 0; i < array.Length; i ++)
@@ -25,8 +30,8 @@ namespace ArrayTest
         }
         static void Main(string[] args)
         {
-            int[] array1 = new int[10];
-            InitializeArray(array1, 1);
+            int[] array11 = new int[10];
+            InitializeArray(array11, 1);
 
             int[] array2 = new int[10];            
             InitializeArray(array2, 2);
@@ -34,7 +39,7 @@ namespace ArrayTest
             int[] array3 = new int[10];
             InitializeArray(array3, 3);
 
-            foreach (int item in array1)
+            foreach (int item in array11)
             {
                 Console.WriteLine(item);
             }
