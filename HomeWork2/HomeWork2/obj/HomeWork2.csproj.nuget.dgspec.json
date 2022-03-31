@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annakamenschikova\\source\\repos\\HomeWork2\\HomeWork2\\HomeWork2.csproj": {}
+    "D:\\Training\\HomeWork2\\HomeWork2\\HomeWork2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annakamenschikova\\source\\repos\\HomeWork2\\HomeWork2\\HomeWork2.csproj": {
+    "D:\\Training\\HomeWork2\\HomeWork2\\HomeWork2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annakamenschikova\\source\\repos\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
+        "projectUniqueName": "D:\\Training\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
         "projectName": "HomeWork2",
-        "projectPath": "C:\\Users\\annakamenschikova\\source\\repos\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
+        "projectPath": "D:\\Training\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
         "packagesPath": "C:\\Users\\annakamenschikova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annakamenschikova\\source\\repos\\HomeWork2\\HomeWork2\\obj\\",
+        "outputPath": "D:\\Training\\HomeWork2\\HomeWork2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\annakamenschikova\\AppData\\Roaming\\NuGet\\NuGet.Config",
