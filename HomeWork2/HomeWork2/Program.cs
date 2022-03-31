@@ -2,6 +2,7 @@
 
 namespace HomeWork2
 {
+    //Создать массив размером 10 элементов, заполнить его квадратами индексов (в цикле), и вывести его содержимое на экран
     class Program
     {
         static void Main(string[] args)
@@ -17,13 +18,11 @@ namespace HomeWork2
             foreach (int item in array)
             {
                 Console.WriteLine(item);
-            }
+            }       
+                 
             
             
-            
-            
-            
-            
+       
         }
     }
 }
